@@ -1,3 +1,4 @@
+# Shoutcast Class
 ### Table of contents
 
 **[Installation](#installation)**  
