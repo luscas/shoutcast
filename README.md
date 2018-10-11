@@ -1,4 +1,5 @@
 # Shoutcast Class
+[![Github All Releases](https://img.shields.io/github/downloads/sant0ro/habclient/total.svg)]()
 ### Table of contents
 
 **[Installation](#installation)**  
